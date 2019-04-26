@@ -2,6 +2,8 @@
 
 ### Requisitos.
 É recomendado que se conheça os fundamentos de Python para seguir esta leitura, mas não é obrigatório.
+* [Python instalado]()
+* [pip instalado.]()
 
 ## Mordomo J.A.R.V.I.S
 Já houviram falar no [J.A.R.V.I.S](https://pt.wikipedia.org/wiki/Edwin_Jarvis)? O mordomo computador do [Tony Stark](https://pt.wikipedia.org/wiki/Homem_de_Ferro).
