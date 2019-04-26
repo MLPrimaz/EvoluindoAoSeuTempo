@@ -19,16 +19,16 @@ Eu tento imaginar que Tony Stark sente-se feliz por ter criado o J.A.R.V.I.S. A 
 Para isso criamos o computador, para fazer para nós tudo que é repetitivo.
 
 ---
-## Testes que falham?!?
+## pyTHON testA_AÍ? - pytest
 Imagine que você pudesse automatizar alguma coisa usando um computador.
 
 E se você pudesse pedir para o seu computador algo do tipo: "Ei computador, `teste_alguma_coisa()`? 
 
 Pedir para o computador testar algo parece legal. E se pudessemos automatizar coisas repetitivas?
-E Podemos! Iremos descobrindo com pequenos passos essa caminhada através de uma aventura de se comunicar com um computador.
+Podemos! Iremos descobrindo com pequenos passos pequenas essa caminhada através de uma aventura de se comunicar com um computador.
 
 
-## pyTHON testA_AÍ? - pytest
+## Testes que falham?!?
 Nós aprenderemos e ensinaremos o computador a automatizar alguns teste. Usaremos uma ferramenta do Python chamada `pytest` para "ensiná-lo a testar algumas coisas para nós.
 - [x] Rodar `pytest`, `pytest -v`
 
