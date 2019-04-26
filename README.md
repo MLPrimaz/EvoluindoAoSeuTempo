@@ -28,7 +28,7 @@ E Podemos! Iremos descobrindo com pequenos passos essa caminhada através de uma
 
 ## pyTHON testA_AÍ? - pytest
 Nós aprenderemos e ensinaremos o computador a automatizar alguns teste. Usaremos uma ferramenta do Python chamada `pytest` para "ensiná-lo a testar algumas coisas para nós.
-- [ ] Rodar `pytest`, `pytest -v`
+- [x] Rodar `pytest`, `pytest -v`
 
 Ao chamar o comando `pytest` o computador irá procurar por algum arquivo Python que tenha `test_` no início de seu nome, como test_ALGUMA_SUGESTAO_DO_QUE_O_TESTE_FAZ.py
 - [ ] `test_alguma_coisa.py`
