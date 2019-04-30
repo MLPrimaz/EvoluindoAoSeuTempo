@@ -19,7 +19,7 @@ Eu tento imaginar que Tony Stark sente-se feliz por ter criado o J.A.R.V.I.S. A 
 Para isso criamos o computador, para fazer para nós tudo que é repetitivo.
 
 ---
-## pyTHON testA_AÍ? - pytest
+## pyTHON, testA_AÍ? - pytest
 Imagine que você pudesse automatizar alguma coisa usando um computador.
 
 E se você pudesse pedir para o seu computador algo do tipo: "Ei computador, `teste_alguma_coisa()`? 
