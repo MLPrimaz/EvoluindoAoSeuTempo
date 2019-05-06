@@ -33,7 +33,7 @@ Nós aprenderemos e ensinaremos o computador a automatizar alguns teste. Usaremo
 - [x] Rodar `pytest`, `pytest -v`
 
 Ao chamar o comando `pytest` o computador irá procurar por algum arquivo Python que tenha `test_` no início de seu nome, como test_ALGUMA_SUGESTAO_DO_QUE_O_TESTE_FAZ.py
-- [ ] `test_alguma_coisa.py`
-- [ ] `import unittest`
-- [ ] `assert 1 == 1`
-- [ ] `assert UM == 1``
+- [x] `test_alguma_coisa.py`
+- [x] `import unittest`
+- [x] `assert 1 == 1`
+- [x] `assert UM == 1``
