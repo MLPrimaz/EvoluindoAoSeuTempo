@@ -25,7 +25,7 @@ Imagine que você pudesse automatizar alguma coisa usando um computador.
 E se você pudesse pedir para o seu computador algo do tipo: "Ei computador, `teste_alguma_coisa()`? 
 
 Pedir para o computador testar algo parece legal. E se pudessemos automatizar coisas repetitivas?
-Podemos! Iremos descobrindo com pequenos passos pequenas essa caminhada através de uma aventura de se comunicar com um computador.
+Podemos! Iremos descobrindo com pequenos passos nesta caminhada que é uma aventura para se comunicar com um computador.
 
 
 ## Testes que falham?!?
