@@ -32,8 +32,12 @@ Podemos! Iremos descobrindo com pequenos passos nesta caminhada que é uma avent
 Nós aprenderemos e ensinaremos o computador a automatizar alguns teste. Usaremos uma ferramenta do Python chamada `pytest` para "ensiná-lo a testar algumas coisas para nós.
 - [x] Rodar `pytest`, `pytest -v`
 
-Ao chamar o comando `pytest` o computador irá procurar por algum arquivo Python que tenha `test_` no início de seu nome, como test_ALGUMA_SUGESTAO_DO_QUE_O_TESTE_FAZ.py
+Ao chamar o comando `pytest` o computador irá procurar por algum arquivo Python que tenha `test_` no início de seu nome, como em test_ALGUMA_SUGESTAO_DO_QUE_O_TESTE_FAZ.py
+
+Vamos criaro arquivo `test_alguma_coisa.py`, poderia ser `test_primeiro_teste.py`, e após rodar novamente o comando `pytest -v`
 - [ ] `test_alguma_coisa.py`
+
+
 - [ ] `import unittest`
 - [ ] `assert 1 == 1`
 - [ ] `assert UM == 1``
